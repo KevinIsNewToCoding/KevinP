@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @KevinIsNewToCoding
-- 👀 I’m interested in Learning about the Coding/Programming Industry
-- 🌱 I’m currently learning Anything that falls my way
-- 💞️ I’m looking to collaborate on Porjects that help increase my skills in job demanded markets
-- 📫 How to reach me kevinpieta@gmail.com
-- Looking forward to making friends!
+👋 Hi there, I'm Kevin and I'm new to coding.
+👀 I'm passionate about learning everything I can about the coding/programming industry and staying up to date with the latest trends and technologies.
+🌱 Currently, I'm focused on expanding my skills and knowledge by exploring various programming languages and tools.
+💞️ I'm always eager to collaborate on projects that challenge me and help me grow my skills in high-demand areas of the job market.
+📫 You can reach me at kevinpieta@gmail.com. Let's connect and learn together!
